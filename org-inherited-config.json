@@ -1,14 +1,12 @@
 {
-  "config": {
-    "packageRules": [
-      {
-        "groupName": "major",
-        "matchUpdateTypes": ["major"]
-      },
-      {
-        "groupName": "minor and patch",
-        "matchUpdateTypes": ["minor", "patch"]
-      }
-    ]
-  }
+  "packageRules": [
+    {
+      "groupName": "major",
+      "matchUpdateTypes": ["major"]
+    },
+    {
+      "groupName": "minor and patch",
+      "matchUpdateTypes": ["minor", "patch"]
+    }
+  ]
 }
