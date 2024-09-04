@@ -9,4 +9,5 @@
       "matchUpdateTypes": ["minor", "patch"]
     }
   ]
+  
 }
